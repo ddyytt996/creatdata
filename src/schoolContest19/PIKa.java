@@ -11,6 +11,7 @@ public class PIKa {
         int n = input.nextInt();
         for(int i=0;i<n;i++) {
             int ans=input.nextInt();
+            int a1 ;
             a[ans]++;
         }
         if(a[1]>a[2]) {
